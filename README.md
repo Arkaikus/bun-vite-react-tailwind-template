@@ -1,1 +1,1 @@
-# bun-vite-react-tailwind-template
+# Bun + Vite + React + Tailwind template
